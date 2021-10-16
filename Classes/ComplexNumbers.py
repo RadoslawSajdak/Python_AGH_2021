@@ -21,11 +21,15 @@ class Complex:
         return Complex((self.real * complex.real - self.imag * complex.imag) / r,
             (self.imag * complex.real + self.real * complex.imag) / r)
 
-a = Complex(3, 8j)
-b = Complex(1, 3j)
+def main():
+    a = Complex(3, 8j)
+    b = Complex(1, 3j)
 
-print("Results:")
-a + b
-a - b
-a * b
-a / b
+    print("Results:")
+    a + b
+    a - b
+    a * b
+    a / b
+
+if __name__ == "__main__":
+    main()
