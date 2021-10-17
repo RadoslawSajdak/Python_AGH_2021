@@ -1,0 +1,18 @@
+{
+    "name": "Piotr",
+    "surname": "Kalias",
+    "age": 21,
+    "student": true,
+    "skills": [
+        "C++",
+        "Python"
+    ],
+    "favourites": [
+        {
+            "fruit": "Banana"
+        },
+        {
+            "color": "Green"
+        }
+    ]
+}
