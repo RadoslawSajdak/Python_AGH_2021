@@ -1,19 +1,23 @@
-{
-    "name": "Piotr",
-    "surname": "Kalias",
-    "age": 21,
+[
+  {
+    "name": "Tom",
+    "surname": "Bolon",
+    "age": 31,
     "student": true,
-    "skills": [
-        "C++",
-        "Python",
-        "Electronics"
-    ],
-    "favourites": [
-        {
-            "fruit": "Banana"
-        },
-        {
-            "color": "Green"
-        }
+    "Skills": [
+      "Water",
+      "Singing"
     ]
-}
+  },
+  {
+    "name": "John",
+    "surname": "Dog",
+    "age": 11,
+    "student": true,
+    "Skills": [
+      "Dogs",
+      "Singing",
+      "C++"
+    ]
+  }
+]
